@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+p{
+    color:red;
+    height:auto;
+    width:500px;
+    border:15px black;
+    border-radius:55px;
+    margin: 5px 10px 15px 25px;
+    background-color: gray;
+}
+p:hover{
+    background-color: white;
+=======
+p {
+  font-size: auto;
+  font-weight: auto;
+  font-family: "Science Gothic", sans-serif;
+  font-style: italic;
+
+  height: auto;
+  width: 50%;
+  border: 15px black;
+  border-radius: 55px;
+  padding: 55px;
+  margin: 5px 10px 15px 25px;
+  background-image: linear-gradient(to bottom right, pink, red);
+
+}
+
+p:hover{
+      box-shadow: 15px 10px 10px 15px rgb(0, 255, 89);
+}
+
+img{
+   filter: drop-shadow( 15px 15px 15px green);
+    height: auto;
+    width: 400px;
+>>>>>>> 279f91bd1828184dc2e1c24f4187965cee7dd46e
+}
