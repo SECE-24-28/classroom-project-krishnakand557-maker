@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 p{
     color:red;
     height:auto;
@@ -10,7 +10,7 @@ p{
 }
 p:hover{
     background-color: white;
-=======
+}
 p {
   font-size: auto;
   font-weight: auto;
@@ -35,5 +35,4 @@ img{
    filter: drop-shadow( 15px 15px 15px green);
     height: auto;
     width: 400px;
->>>>>>> 279f91bd1828184dc2e1c24f4187965cee7dd46e
 }
